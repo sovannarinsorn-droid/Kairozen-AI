@@ -1,0 +1,33 @@
+# Secrets — កុំ push!
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+bot.log
+
+# Temp files
+*.mp3
+*.mp4
+*.ogg
+*.wav
+*.flac
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
